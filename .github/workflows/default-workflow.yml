@@ -8,7 +8,7 @@ jobs:
     with:
       runs-on: "ubuntu-latest"
       environment: "production"
-      working-directory: "app"
+      working-directory: "back"
       shell: "bash"
       project-name: "lamiso"
       java-distribution: "zulu"
@@ -23,7 +23,7 @@ jobs:
     with:
       runs-on: "ubuntu-latest"
       environment: "production"
-      working-directory: "app"
+      working-directory: "back"
       shell: "bash"
       project-name: "lamiso"
       language: "java"
@@ -37,7 +37,7 @@ jobs:
     with:
       runs-on: "ubuntu-latest"
       environment: "production"
-      working-directory: "app"
+      working-directory: "back"
       shell: "bash"
       project-name: "lamiso"
       languages: "java"
