@@ -1,4 +1,4 @@
-package br.com.kumabe.springboot3.configs;
+package br.com.kumabe.lamiso.configs;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

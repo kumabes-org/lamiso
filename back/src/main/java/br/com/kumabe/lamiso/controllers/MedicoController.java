@@ -1,4 +1,4 @@
-package br.com.kumabe.springboot3.controllers;
+package br.com.kumabe.lamiso.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.kumabe.springboot3.dtos.DadosCadastroMedico;
+import br.com.kumabe.lamiso.dtos.DadosCadastroMedico;
 
 @RestController
 @RequestMapping("/medicos")

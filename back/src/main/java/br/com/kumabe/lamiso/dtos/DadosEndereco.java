@@ -1,4 +1,4 @@
-package br.com.kumabe.springboot3.dtos;
+package br.com.kumabe.lamiso.dtos;
 
 public record DadosEndereco(
         String logradouro, String bairro,

@@ -1,4 +1,4 @@
-package br.com.kumabe.springboot3.enums;
+package br.com.kumabe.lamiso.enums;
 
 public enum Especialidade {
     ORTOPEDIA, CARDIOLOGIA, GINECOLOGIA, DERMATOLOGIA;

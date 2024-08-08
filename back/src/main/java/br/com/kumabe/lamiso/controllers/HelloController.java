@@ -1,4 +1,4 @@
-package br.com.kumabe.springboot3.controllers;
+package br.com.kumabe.lamiso.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
